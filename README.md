@@ -15,7 +15,7 @@ Before you begin, make sure you have the following installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/auth-role-permission.git
+   git clone https://github.com/siddiqur-54/auth-role-permission.git
 2. **Navigate into the project directory:**
    ```bash
    cd auth-role-permission
