@@ -54,6 +54,6 @@ Before you begin, make sure you have the following installed on your machine:
    php artisan serve
 
 ### Default User Credentials
-After seeding the database, a default admin user is created with the following credentials:
-- Email: admin@example.com
+After seeding the database, a default admin user will be created with the following credentials:
+- Email: admin@gmail.com
 - Password: password
